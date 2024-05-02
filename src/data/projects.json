@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Amazon Clone ",
+      "imageSrc": "projects/icons8-amazon-200.png",
+      "description": "Amazon home page is cloned ,is static , made using Html5 and css only.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://rawcdn.githack.com/hetalkumawat/amazon/3f482394ae609bf13a7a35eafc7123a271cfd872/amazon.html",
+      "source": "https://github.com/hetalkumawat/amazon/tree/main"
+    },
+    {
+      "title": "Color Switch",
+      "imageSrc": "projects/color-switch.png",
+      "description": "Body changes color when buttons are clicked ,made using basic javascript.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://rawcdn.githack.com/hetalkumawat/colorswitch/b77ab848b6a9bbf16359f0c807ea0b44b49fdf6a/colorswitch.html",
+      "source": "https://github.com/hetalkumawat/colorswitch"
+    },
+    {
+      "title": "UnlimitedColors using async",
+      "imageSrc": "projects/new.jpg",
+      "description": "Uses setInterval(), clearInterval(),generates random bg-colors until the STOP button is clicked.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://rawcdn.githack.com/hetalkumawat/async-project/7e667d3ba6feb1affb63dc67227c1168c3f83172/unlimitedcolors.html",
+      "source": "https://github.com/hetalkumawat/async-project"
+    }
+    
+  ]
