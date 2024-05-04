@@ -116,9 +116,10 @@
 }
 
 .bottomBlur {
-  position: absolute;
+  position: relative;
   width: 70vw;
   height: 50vw;
+  overflow: ;
   min-width: 350px;
   min-width: 250px;
   top: 246px;
