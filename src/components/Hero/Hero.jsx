@@ -24,7 +24,7 @@ const Hero = () => {
             <button className={styles.contactBtn}>
               <a
                 className={styles.newanchortag}
-                href="mailto:reach_hetal@gmail.com"
+                href="mailto:reach.hetalk@gmail.com"
               >
                 Contact Me
               </a>
