@@ -22,7 +22,7 @@ const Projects = () => {
               </ul>
               <div >
                 
-<a href={project.demo} className={styles.links} >DEMO</a>
+<a href={project.demo} className={styles.links} target="_blank" >DEMO</a>
 <a href={project.source} className={styles.links}>SOURCE</a>
 
 
