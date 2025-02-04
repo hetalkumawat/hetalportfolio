@@ -21,10 +21,10 @@ const Aboutme = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
 
-              <h3>Frontend Developer</h3>
+              <h3>Full Stack  Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I am a frontend developer with experience in building responsive
+                and optimized sites using MERN stack.
               </p>
             </div></li>
       
@@ -33,9 +33,9 @@ const Aboutme = () => {
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
 
-              <h3>Python Programmer</h3>
+              <h3> DSA Enthusiast</h3>
               <p>
-                I have apt programming skills in Python.
+              I solve DSA problems in Java and have successfully tackled 150+ problems, honing my problem-solving and algorithmic skills.
               </p>
             </div>
           </li>
@@ -44,9 +44,9 @@ const Aboutme = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
 
-              <h3>Java developer</h3>
+              <h3>Learning ML in Python"</h3>
               <p>
-                I have proficient developing skills in Java.
+              Currently learning Machine Learning in Python, exploring algorithms, data analysis, and model building.
               </p>
             </div>
           </li>
