@@ -82,7 +82,7 @@
 .heroImg {
   width: 50%;
   z-index: 1;
-
+/* margin-left: 200px; */
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -119,6 +119,7 @@
   position: absolute;
   width: 70vw;
   height: 50vw;
+  overflow: hidden;
   min-width: 350px;
   min-width: 250px;
   top: 246px;
