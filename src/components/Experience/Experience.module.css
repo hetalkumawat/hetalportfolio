@@ -111,9 +111,9 @@ padding: 10px;
   gap: 40px;
 }
 
-  /* a:link {
+  a:link {
     color: red;
-  } */
+  }
   
   /* visited link */
   a:visited {

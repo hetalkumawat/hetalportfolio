@@ -38,53 +38,77 @@ export const Experience = () => {
                   <h3>{`${historyItem.role} `}</h3>
                   {/* <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p> */}
                   {/* ${historyItem.organisation} */}
-                <div className={styles.mytext}> <ul >
-                    {/* {historyItem.experiences.map((experience, id) => { */}
-                      
-                        {/* (<li key={id}>{experience}</li>), */}
-                        
-                          <li>
-                            <a
-                              className={styles.mylinks}
-                              href="https://pdflink.to/b5d775b4/"
-                              target="blank"
-                            >
-                              Inhouse internship program in Python
-                            </a>
-                          </li><br></br>
-                        
-                        
-                          <li>
-                            <a
-                              className={styles.mylinks}
-                              href="https://pdflink.to/e5b99420/"
-                              target="blank"
-                            >
-                              Python Programming for Beginners
-                            </a>
-                          </li><br></br>
-                        
-                          <li>
-                            <a
-                              className={styles.mylinks}
-                              href="https://pdflink.to/1833629a/"
-                              target="blank"
-                            >
-                              Python By Example
-                            </a>
-                          </li><br></br>
-                        
-                          <li>
-                            <a
-                              className={styles.mylinks}
-                              href="https://pdflink.to/e2c73d29/"
-                              target="blank"
-                            >
-                              Programming Concepts in Python
-                            </a>
-                          </li>
-                        
-                  </ul></div> 
+                  <div className={styles.mytext}>
+                    {" "}
+                    <ul>
+                      {/* {historyItem.experiences.map((experience, id) => { */}
+
+                      {/* (<li key={id}>{experience}</li>), */}
+                      <li>
+                        <a
+                          className={styles.mylinks}
+                          href="https://shorturl.at/kqUUw"
+                          target="blank"
+                        >
+                          Career Essentials in Generative AI by Microsoft &
+                          LinkedIn{" "}
+                        </a>
+                      </li>
+                      <br></br>
+                      <li>
+                        <a
+                          className={styles.mylinks}
+                          href="https://pdflink.to/bf6485cb/"
+                          target="blank"
+                        >
+                          Tech Vector Volume MERN Stack Internship{" "}
+                        </a>{" "}
+                      </li>
+                      <br></br>
+                      <li>
+                        <a
+                          className={styles.mylinks}
+                          href="https://pdflink.to/b5d775b4/"
+                          target="blank"
+                        >
+                          Inhouse internship program in Python
+                        </a>
+                      </li>
+                      <br></br>
+
+                      <li>
+                        <a
+                          className={styles.mylinks}
+                          href="https://pdflink.to/e5b99420/"
+                          target="blank"
+                        >
+                          Python Programming for Beginners
+                        </a>
+                      </li>
+                      <br></br>
+
+                      <li>
+                        <a
+                          className={styles.mylinks}
+                          href="https://pdflink.to/1833629a/"
+                          target="blank"
+                        >
+                          Python By Example
+                        </a>
+                      </li>
+                      <br></br>
+
+                      <li>
+                        <a
+                          className={styles.mylinks}
+                          href="https://pdflink.to/e2c73d29/"
+                          target="blank"
+                        >
+                          Programming Concepts in Python
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
                 </div>
               </li>
             );
