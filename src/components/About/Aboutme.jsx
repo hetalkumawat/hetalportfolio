@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import styles from "./Aboutme.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -44,7 +44,7 @@ const Aboutme = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
 
-              <h3>Learning ML in Python"</h3>
+              <h3>Learning ML in Python</h3>
               <p>
               Currently learning Machine Learning in Python, exploring algorithms, data analysis, and model building.
               </p>
@@ -55,4 +55,4 @@ const Aboutme = () => {
   )
 }
 
-export default Aboutme
+export default Aboutme;
